@@ -1,0 +1,10 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+            <!-- Load standard AIML set -->
+            
+            <learn>Version1.aiml</learn>
+        </template>
+    </category>
+</aiml>
